@@ -1,3 +1,4 @@
 <svg width="500px" height="500px" xmlns="http://www.w3.org/2000/svg"><!--xmlns stads for xml namespace-->
 <!--please note xml does not recognise the s i an https url-->
+<line x1="0" y1="0" x2="100" y2="100"/><!--line is a self-closing tag we use it to draw an svg line-->
 </svg>
